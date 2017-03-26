@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestLibertyRider</string>
+    <string name="title_home">Home</string>
+    <string name="age_drivers">Average age of pilots in</string>
+    <string name="db_key_age">average_age</string>
+    <string name="db_key_chrono">average_chrono</string>
+    <string name="title">Average age of pilots for the last race:</string>
+</resources>

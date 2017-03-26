@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "154156682473",
+    "firebase_url": "https://testlibertyrider.firebaseio.com",
+    "project_id": "testlibertyrider",
+    "storage_bucket": "testlibertyrider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154156682473:android:8ee6d0e5aa0733e8",
+        "android_client_info": {
+          "package_name": "com.example.pauill_c.testlibertyrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154156682473-k8j7t57vja6u6q8ek1shjk0mphmlagsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pauill_c.testlibertyrider",
+            "certificate_hash": "a4de2cb75681674fa8cc3a4dec96b0af40f1423e"
+          }
+        },
+        {
+          "client_id": "154156682473-g78af9sslkcfuil3171g5eub5hdijbhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMXueOK7A0iJTCUa-K6jMc20r5k2O8yLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154156682473-g78af9sslkcfuil3171g5eub5hdijbhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
