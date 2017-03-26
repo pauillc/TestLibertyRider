@@ -7,16 +7,16 @@ The MainActivity do all the requests at the start.
 You can replay the requests with a click on the driver picture.
 
 Classes arborescence :
-  -|
-   |- MainActivity
-   |- Database
-   |- Callback
-    |- HttpRaceHandler
-    |- HttpPilotHandler
-   |- Parser
-    |- ParserXML
-    |- ParserRace
+   -|
+    |- MainActivity
+    |- Database
+    |-  Callback
+      |- HttpRaceHandler
+      |- HttpPilotHandler
+    |- Parser
+      |- ParserXML
+      |- ParserRace
       
  Link use for requests :
-    -| http://ergast.com/api/f1/current/last
-    -| http://ergast.com/api/f1/current/last/drivers
+  * http://ergast.com/api/f1/current/last
+  * http://ergast.com/api/f1/current/last/drivers
